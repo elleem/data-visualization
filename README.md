@@ -14,9 +14,15 @@
 Table of Contents:
 
 First Look at the Glue Data
+
 Note on the Encoders
+
 Note on the Models
+
 First Conclusions
+
 How Do Different Models Score on Tasks?
+
 How are the Scores Improving Over Time?
+
 Final Conclusions
